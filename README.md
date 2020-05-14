@@ -8,4 +8,4 @@ This app allows and employer to view non-sensitve information about their employ
 https://gllil.github.io/employee-directory/
 
 # GIF
-<img src="">
+![](Employee%20Directory.gif)
