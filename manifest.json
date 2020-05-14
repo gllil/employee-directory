@@ -1,16 +1,7 @@
 {
   "short_name": "Directory",
   "name": "Employee Directory",
-  "icons": [
-    {
-    "src":"/android-chrome-192x192.png",
-    "sizes":"192x192","type":"image/png"
-    },
-    {
-    "src":"/android-chrome-512x512.png",
-    "sizes":"512x512","type":"image/png"
-    }
-  ],
+  "icons": [],
   "start_url": "https://gllil.github.io/employee-directory/",
   "display": "standalone",
   "theme_color": "#ffffff",
