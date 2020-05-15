@@ -160,6 +160,7 @@ class Employees extends React.Component {
         Moment.locale("en")
     return (
         
+        <div className="table-responsive">
         <Table className="tableStyle text-center" striped>
                 <thead>
                     <tr>
@@ -217,7 +218,7 @@ class Employees extends React.Component {
                     )}
                 </tbody>
         </Table> 
-        
+        </div>
     )
     
 }
